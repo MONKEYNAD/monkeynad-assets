@@ -1,0 +1,10 @@
+{
+  "name": "MONKEYNAD",
+  "symbol": "MKND",
+  "decimals": 18,
+  "chainId": 143,
+  "address": "0x4BC9...09Dc",
+  "logoURI": "https://raw.githubusercontent.com/MONKEYNAD/monkeynad-assets/refs/heads/main/monkeynad.png",
+  "tags": ["meme", "monad", "community"],
+  "description": "MONKEYNAD (MKND) is the official meme token deployed on Monad Mainnet."
+}
